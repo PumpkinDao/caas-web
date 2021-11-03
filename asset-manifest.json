@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.f5099efc.chunk.js",
-    "main.js.map": "/static/js/main.f5099efc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a17659fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a17659fa.js.map",
-    "static/js/2.bf16775d.chunk.js": "/static/js/2.bf16775d.chunk.js",
-    "static/js/2.bf16775d.chunk.js.map": "/static/js/2.bf16775d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.bf16775d.chunk.js.LICENSE.txt": "/static/js/2.bf16775d.chunk.js.LICENSE.txt"
+    "main.js": "/caas-web/static/js/main.f5099efc.chunk.js",
+    "main.js.map": "/caas-web/static/js/main.f5099efc.chunk.js.map",
+    "runtime-main.js": "/caas-web/static/js/runtime-main.532ef9c1.js",
+    "runtime-main.js.map": "/caas-web/static/js/runtime-main.532ef9c1.js.map",
+    "static/js/2.bf16775d.chunk.js": "/caas-web/static/js/2.bf16775d.chunk.js",
+    "static/js/2.bf16775d.chunk.js.map": "/caas-web/static/js/2.bf16775d.chunk.js.map",
+    "index.html": "/caas-web/index.html",
+    "static/js/2.bf16775d.chunk.js.LICENSE.txt": "/caas-web/static/js/2.bf16775d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a17659fa.js",
+    "static/js/runtime-main.532ef9c1.js",
     "static/js/2.bf16775d.chunk.js",
     "static/js/main.f5099efc.chunk.js"
   ]

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/caas-web/static/js/main.d138c81a.chunk.js",
-    "main.js.map": "/caas-web/static/js/main.d138c81a.chunk.js.map",
+    "main.js": "/caas-web/static/js/main.98810434.chunk.js",
+    "main.js.map": "/caas-web/static/js/main.98810434.chunk.js.map",
     "runtime-main.js": "/caas-web/static/js/runtime-main.532ef9c1.js",
     "runtime-main.js.map": "/caas-web/static/js/runtime-main.532ef9c1.js.map",
-    "static/js/2.bf16775d.chunk.js": "/caas-web/static/js/2.bf16775d.chunk.js",
-    "static/js/2.bf16775d.chunk.js.map": "/caas-web/static/js/2.bf16775d.chunk.js.map",
+    "static/js/2.720c80a1.chunk.js": "/caas-web/static/js/2.720c80a1.chunk.js",
+    "static/js/2.720c80a1.chunk.js.map": "/caas-web/static/js/2.720c80a1.chunk.js.map",
     "index.html": "/caas-web/index.html",
-    "static/js/2.bf16775d.chunk.js.LICENSE.txt": "/caas-web/static/js/2.bf16775d.chunk.js.LICENSE.txt"
+    "static/js/2.720c80a1.chunk.js.LICENSE.txt": "/caas-web/static/js/2.720c80a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.532ef9c1.js",
-    "static/js/2.bf16775d.chunk.js",
-    "static/js/main.d138c81a.chunk.js"
+    "static/js/2.720c80a1.chunk.js",
+    "static/js/main.98810434.chunk.js"
   ]
 }

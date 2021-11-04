@@ -95,6 +95,7 @@ const Detail = () => {
 
     ids.push(newId);
     localStorage.setItem("MVP_IDS", JSON.stringify(ids));
+    setId(newId);
     return newId;
   }, [id]);
 
